@@ -62,7 +62,7 @@ photo-editor/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/photo-editor.git
+git clone https://github.com/ballasairaj/photo_editor_opencv.git
 cd photo-editor
 ```
 
@@ -184,7 +184,7 @@ Download Image
 ## 📌 Author
 
 **Your Name**
-🔗 LinkedIn: https://linkedin.com/in/your-profile
-💻 GitHub: https://github.com/your-username
+🔗 LinkedIn: https://www.linkedin.com/in/sairaj-balla-73071a241/
+💻 GitHub: https://github.com/ballasairaj/photo_editor_opencv
 
 ---
